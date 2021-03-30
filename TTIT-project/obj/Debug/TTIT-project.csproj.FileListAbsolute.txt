@@ -1,0 +1,7 @@
+C:\Users\kozlovvo\Desktop\Новая папка (2)\New-TTIT-repo\TTIT-project\bin\Debug\TTIT-project.exe.config
+C:\Users\kozlovvo\Desktop\Новая папка (2)\New-TTIT-repo\TTIT-project\bin\Debug\TTIT-project.exe
+C:\Users\kozlovvo\Desktop\Новая папка (2)\New-TTIT-repo\TTIT-project\bin\Debug\TTIT-project.pdb
+C:\Users\kozlovvo\Desktop\Новая папка (2)\New-TTIT-repo\TTIT-project\obj\Debug\TTIT-project.csprojAssemblyReference.cache
+C:\Users\kozlovvo\Desktop\Новая папка (2)\New-TTIT-repo\TTIT-project\obj\Debug\TTIT-project.csproj.CoreCompileInputs.cache
+C:\Users\kozlovvo\Desktop\Новая папка (2)\New-TTIT-repo\TTIT-project\obj\Debug\TTIT-project.exe
+C:\Users\kozlovvo\Desktop\Новая папка (2)\New-TTIT-repo\TTIT-project\obj\Debug\TTIT-project.pdb
